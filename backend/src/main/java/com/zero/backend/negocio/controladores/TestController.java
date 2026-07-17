@@ -1,4 +1,4 @@
-package com.zero.backend.controller;
+package com.zero.backend.negocio.controladores;
 
 import org.springframework.web.bind.annotation.CrossOrigin;
 import org.springframework.web.bind.annotation.GetMapping;
